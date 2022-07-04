@@ -2,7 +2,8 @@
 
 - 👋 Hi!, I’m Bruno Hernández but you can call me @Chonco, it's my videogames nickname haha
 - I'm a Software Development student at CETI Colomos University (Guadalajara, Mexico)
-- 🌱 I’m currently learning Java, I have been practicing since 2019 but i felt that i needed to improve my skills so I started a course, Hyperskills Java Course.
+- I’m also a Full Stack developer at Oracle, been there since february 2022.
+- Currently I'm learning Rust, saw a video of it and I liked the syntaxis a lot, so, here I am.
 
 And I do not know what else, I hope my perfil grow up as well as my carreer as Software Engineer.
 
